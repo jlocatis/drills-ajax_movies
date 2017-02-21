@@ -1,0 +1,13 @@
+body {
+	font-family: 'Rajdhani', sans-serif;
+}
+
+a {
+	color: blue;
+	text-decoration: none;
+}
+
+a :visited {
+	color: blue;
+	text-decoration: none;
+}
